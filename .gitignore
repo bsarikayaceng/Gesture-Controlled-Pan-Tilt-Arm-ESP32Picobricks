@@ -1,0 +1,20 @@
+# Arduino specific
+*.hex
+*.elf
+*.bin
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+*.log
+
+# Compiled object files
+*.o
+*.d
+
+# Arduino build folder
+/build/
